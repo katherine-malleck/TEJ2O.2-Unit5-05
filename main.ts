@@ -1,6 +1,6 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Noah
+ * Created by: katherine
  * Created on: March 2026
  * This program finds distance between objects using sonar
 */
